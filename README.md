@@ -33,19 +33,19 @@
 
 <br/>
 
-Building tools that make developers' lives easier.
-Passionate about distributed systems, developer experience, and the open-source ecosystem.
+I build tools that help businesses scale.
+Obsessed with developer experience and solid API design.
 
-**Currently at** Stellar Labs — San Francisco, CA
+**Currently at** Rio de Janeiro, BR
 </details>
 
 <br/>
 
 <div align="center">
-  <a href="mailto:nyx@stellarlabs.dev">
+  <a href="mailto:joaovsvieira.me@gmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/nyxorion/">
+  <a href="https://www.linkedin.com/in/joaovsvieira-me/">
     <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
   </a>
 </div>
