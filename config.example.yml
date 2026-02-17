@@ -24,15 +24,13 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "TypeScript"
-      - "React"
-      - "VueJs"
+      - "VueJs/React"
       - "TailwindCSS"
   - name: "Backend"
     color: "synapse_cyan"
     items:
       - "PHP"
       - "Laravel"
-      - "PostgreSQL"
       - "NestJs"
   - name: "DevOps"
     color: "axon_amber"
@@ -40,19 +38,6 @@ galaxy_arms:
       - "Docker"
       - "GitHub Actions"
       - "AWS"
-
-# Featured projects shown as constellation stars
-# Each project needs:
-#   repo: "owner/repo-name"   — GitHub repository path
-#   arm: 0-2                  — Which galaxy arm to associate with (index)
-#   description: "..."        — Short description shown on the card
-projects:
-  - repo: "galaxy-dev/nebula-ui"
-    arm: 0
-    description: "A component library with cosmic design tokens and dark-first theming."
-  - repo: "galaxy-dev/stargate-api"
-    arm: 1
-    description: "High-performance API gateway with built-in observability and caching."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
